@@ -16,7 +16,7 @@ declare -rg DIR_THIS FILE_THIS
 
 # environment variables for customization
 # Github personal access token
-declare -rg MR_GITHUB_PAT
+declare -rg MR_GITHUB_PAT='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'
 # download URL of actions runner release, defaults to latest release on GitHub.com
 declare -rg MR_RELEASE_URL
 # baseurl of GitHub API, defaults to https://api.github.com
